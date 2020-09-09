@@ -1,0 +1,217 @@
+\documentclass[]{Rishi_Jha_Resume}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Rishi}{Jha}{ \urlstyle{same}\href{http://rishijha.com}{rishijha.com}\\
+\href{mailto:rjha01@cs.uw.edu}{rjha01@cs.uw.edu} | 425.677.4846 | \href{https://github.com/rjha18}{github.com/rjha18}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+
+\subsection{University {\footnotesize of} Washington}
+\descript{BS.BA., Computer Science and Mathematics}
+\location{June 2022 | Seattle, WA}
+2018, 2019 Annual Dean's List\\
+\location{ GPA: 3.79 / 4.0}
+\sectionsep
+
+\subsection{The Overlake School}
+\location{Grad. June 2018 | Redmond, WA}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links}
+Website:// \href{http://rishijha.com}{\bf rishijha.com} \\
+Email:// \href{mailto:rjha01@cs.uw.edu}{\bf rjha01@cs.uw.edu} \\
+Github:// \href{https://github.com/rjha18}{\bf rjha18} \\
+LinkedIn://  \href{https://www.linkedin.com/in/rishi-jha/}{\bf rishi-jha} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\subsection{Planned}
+Deep Learning \\
+Computer Security \\
+Data Management \\
+Combinatorics I \& II \\
+Probability and Statistics II \& III \\
+Distributed Systems \\
+\sectionsep
+
+\subsection{Completed}
+{\footnotesize \textit{\textbf{(Teaching Assistant) }}} \\
+Introduction to Machine Learning \\
+Introduction to Algorithms \\
+Systems Programming \\
+Real Analysis I \& II \\
+Statistics and Probability I \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Tags}
+Business Strategy \textbullet{} Leadership\\ 
+Creative Ideation \textbullet{} Machine Learning \\
+Web Design \\
+
+\sectionsep
+\subsection{Programming}
+Java / C\# \textbullet{} Python \textbullet{} C++ \textbullet{} Pytorch \\
+TensorFlow \textbullet{} Azure DevOps \textbullet{} React \\
+Redux \textbullet{} Express \textbullet{} \LaTeX\ \\ 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SUMMARY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Summary}
+Passionate computer science / mathematics student, TA, and researcher by day and driven entrepreneur by night.
+Always looking for opportunities to give back and grow.
+Experience in machine learning, web design, and organized small business chaos.
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Research}
+\runsubsection{Center for Neurotechnology}
+\descript{| Undergrad ML Researcher}
+\location{March 2020 – Present | Seattle, WA}
+Working with \textbf{\href{https://www.cs.washington.edu/people/faculty/rao}{Dr. Rajesh Rao}} and \textbf{\href{https://homes.cs.washington.edu/~gklezd/}{Dimitrios Gklezakos}} to: 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Create a convolutional, manifold-learning based network to learn complex features in natural images in an unsupervised fashion.
+\item Develop a temporal and graphical pooling algorithm for natural images.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{ICTD LAB}
+\descript{| Undergrad Researcher}
+\location{November 2018 - May 2019 | Seattle, WA}
+Worked with \textbf{\href{https://spencersevilla.com/}{Dr. Spencer Sevilla}} to:
+\begin{tightemize}
+\item Investigate the viability of different chat apps in poor network conditions.
+\item Implement a teaching solution for schoolchildren in rural Indonesia.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Microsoft}
+\descript{| Software Engineering Intern - Defender Security}
+\location{June 2020 - September 2020 | Remote}
+\begin{tightemize}
+\item Reduced related COGS by \$100K - \$1M by creating ML model to selectively download dangerous files for analysis. In PPE. 
+\item Built infrastructure for ring-based ML model deployment. In production. 
+\item Decreased researcher rule development time by 35\%, by creating VSCode extension to natively test rules. In production.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{UW}
+\descript{| Undergrad / Grad Machine Learning TA}
+\location{March 2020 – June 2020 | Seattle, WA}
+\begin{tightemize}
+\item Designed homeworks and sections for 220 person class.
+In addition, held weekly office hours, monitored the discussion board, and graded assignments.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Microsoft}
+\descript{| Explore Intern - Office.com Front End}
+\location{June 2019 – August 2019 | Redmond, WA}
+\begin{tightemize}
+\item Designed, implemented, and released front end notes tool for the Office.com team using Typescript, Redux, and React internally.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Mr. Bird, LLC}
+\descript{| Co-Founder \& Designer}
+\location{May 2018 – August 2018 | Bellevue, WA}
+\begin{tightemize}
+\item Built ExpressJS based webstore (LongLiveBird.com) and created clothing.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Def Hacks ()}
+\descript{| Co-Founder \& CTO}
+\location{Jan 2017 – May 2018 | WA}
+\begin{tightemize}
+\item Built website and evangelized code and technology via free hackathons.
+\item Co-founded Seattle Branch. Hosted two-hundred person, 24-hour event.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COMPETITIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Competitions} 
+\begin{tabular}{rll}
+2019	     & Top 4/36  & UW Foster CBDC: Consulting Challenge\\
+2017	     & 3\textsuperscript{rd}/1000+  & Microsoft OneWeek Hackathon Consumer Category\\
+\end{tabular}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Publications} 
+% \renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+% \bibliographystyle{abbrv}
+% \bibliography{publications}
+% \nocite{*}
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
