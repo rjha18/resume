@@ -38,8 +38,8 @@
 
 
 \subsection{University {\footnotesize of} Washington}
-\descript{BS.BA., Computer Science and Mathematics}
-\location{June 2022 | Seattle, WA}
+\descript{BS.BA., Computer Science and Mathematics - Philosophy}
+\location{March 2022 | Seattle, WA}
 2018, 2019 Annual Dean's List\\
 \location{ GPA: 3.79 / 4.0}
 \sectionsep
@@ -64,21 +64,20 @@ LinkedIn://  \href{https://www.linkedin.com/in/rishi-jha/}{\bf rishi-jha} \\
 
 \section{Coursework}
 \subsection{Planned}
-Deep Learning \\
 Computer Security \\
-Data Management \\
 Combinatorics I \& II \\
 Probability and Statistics II \& III \\
 Distributed Systems \\
 \sectionsep
 
 \subsection{Completed}
-{\footnotesize \textit{\textbf{(Teaching Assistant) }}} \\
-Introduction to Machine Learning \\
-Introduction to Algorithms \\
+Machine Learning \\
+Deep Learning \\
+Algorithms \\
 Systems Programming \\
 Real Analysis I \& II \\
-Statistics and Probability I \\
+Probability and Statistics I \\
+Data Management \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -92,7 +91,7 @@ Web Design \\
 
 \sectionsep
 \subsection{Programming}
-Java / C\# \textbullet{} Python \textbullet{} C++ \textbullet{} Pytorch \\
+Python \textbullet{} C++ \textbullet{} Java / C\# \textbullet{} PyTorch \\
 TensorFlow \textbullet{} Azure DevOps \textbullet{} React \\
 Redux \textbullet{} Express \textbullet{} \LaTeX\ \\ 
 
@@ -112,9 +111,10 @@ Redux \textbullet{} Express \textbullet{} \LaTeX\ \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Summary}
-Passionate computer science / mathematics student, TA, and researcher by day and driven entrepreneur by night.
+Passionate computer science / mathematics student, TA, and researcher.
 Always looking for opportunities to give back and grow.
 Experience in machine learning, web design, and organized small business chaos.
+Motivated by hard problems.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -128,8 +128,17 @@ Experience in machine learning, web design, and organized small business chaos.
 Working with \textbf{\href{https://www.cs.washington.edu/people/faculty/rao}{Dr. Rajesh Rao}} and \textbf{\href{https://homes.cs.washington.edu/~gklezd/}{Dimitrios Gklezakos}} to: 
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
+\item Develop a audio-visual hypernetwork for representation learning with planned submission to \textbf{ICCV}.
 \item Create a convolutional, manifold-learning based network to learn complex features in natural images in an unsupervised fashion.
-\item Develop a temporal and graphical pooling algorithm for natural images.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Self-Directed}
+\descript{| NLP Researcher}
+\location{November 2020 - Current | Seattle, WA}
+Working with \textbf{\href{https://kaimihata.com/}{Kai Mihata}} to:
+\begin{tightemize}
+\item Investigate the downstream effects of geodesic nonlinear dimensionality reduction (Isomap) on BERT with planned submission to \textbf{TextGraphs at NAACL}.
 \end{tightemize}
 \sectionsep
 
@@ -148,22 +157,23 @@ Worked with \textbf{\href{https://spencersevilla.com/}{Dr. Spencer Sevilla}} to:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
+\runsubsection{UW}
+\descript{| 2x for Undergrad / Grad Machine Learning TA}
+\location{January 2021 - Present, March 2020 – June 2020 | Seattle, WA}
+\begin{tightemize}
+\item \textbf{(Both)} Designed homeworks and section material for 150+ person classes. Held weekly office hours, monitored Piazza, and graded assignments.
+\item \textbf{(Winter 2021 for Undergrad)} Teaching and preparing 25-person section.
+\item \textbf{(Spring 2020 for Undergrad / Grad)} Supported graduate students as well.
+\end{tightemize}
+\sectionsep
+
 \runsubsection{Microsoft}
 \descript{| Software Engineering Intern - Defender Security}
 \location{June 2020 - September 2020 | Remote}
 \begin{tightemize}
-\item Reduced related COGS by \$100K - \$1M by creating ML model to selectively download dangerous files for analysis. In PPE. 
+\item Reduced related COGS by \$100K - \$1M by creating ML model to selectively download dangerous files for analysis. In production. 
 \item Built infrastructure for ring-based ML model deployment. In production. 
 \item Decreased researcher rule development time by 35\%, by creating VSCode extension to natively test rules. In production.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{UW}
-\descript{| Undergrad / Grad Machine Learning TA}
-\location{March 2020 – June 2020 | Seattle, WA}
-\begin{tightemize}
-\item Designed homeworks and sections for 220 person class.
-In addition, held weekly office hours, monitored the discussion board, and graded assignments.
 \end{tightemize}
 \sectionsep
 
@@ -175,22 +185,22 @@ In addition, held weekly office hours, monitored the discussion board, and grade
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Mr. Bird, LLC}
-\descript{| Co-Founder \& Designer}
-\location{May 2018 – August 2018 | Bellevue, WA}
-\begin{tightemize}
-\item Built ExpressJS based webstore (LongLiveBird.com) and created clothing.
-\end{tightemize}
-\sectionsep
+% \runsubsection{Mr. Bird, LLC}
+% \descript{| Co-Founder \& Designer}
+% \location{May 2018 – August 2018 | Bellevue, WA}
+% \begin{tightemize}
+% \item Built ExpressJS based webstore (LongLiveBird.com) and created clothing.
+% \end{tightemize}
+% \sectionsep
 
-\runsubsection{Def Hacks ()}
-\descript{| Co-Founder \& CTO}
-\location{Jan 2017 – May 2018 | WA}
-\begin{tightemize}
-\item Built website and evangelized code and technology via free hackathons.
-\item Co-founded Seattle Branch. Hosted two-hundred person, 24-hour event.
-\end{tightemize}
-\sectionsep
+% \runsubsection{Def Hacks ()}
+% \descript{| Co-Founder \& CTO}
+% \location{Jan 2017 – May 2018 | WA}
+% \begin{tightemize}
+% \item Built website and evangelized code and technology via free hackathons.
+% \item Co-founded Seattle Branch. Hosted two-hundred person, 24-hour event.
+% \end{tightemize}
+% \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COMPETITIONS
